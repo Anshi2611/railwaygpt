@@ -1,0 +1,17 @@
+Indian Railways Refund Rules:
+- If a confirmed ticket is cancelled more than 48 hours before departure, a small cancellation charge is deducted.
+- If cancelled within 48 hours, higher charges apply.
+- No refund is given after chart preparation.
+
+Tatkal Rules:
+- Tatkal booking opens at 10 AM for AC classes.
+- Tatkal booking opens at 11 AM for Sleeper class.
+- Tatkal tickets have limited refund.
+
+Senior Citizen Concession:
+- Male senior citizens above 60 years are eligible for concession.
+- Female senior citizens above 58 years are eligible for concession.
+
+Chart Preparation:
+- Chart is prepared 4 hours before train departure.
+- After chart preparation, cancellation rules change.
